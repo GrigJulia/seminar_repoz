@@ -34,3 +34,13 @@
 ## Цитаты
 
 ## Заключение
+
+# Команды для гит
+
+git init - 
+
+git status - 
+
+git add - 
+
+git log- 
